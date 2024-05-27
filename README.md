@@ -56,5 +56,14 @@ To run WONDER PLAY locally, follow these steps:
 - [Himanshi Shekhawat](https://github.com/himanshishekhawat)
 - [Lakshmishree Shukla]
 
+## Copyright
+WONDER PLAY
+Copyright (c) 2024 [Swati Kanwar], [Himanshi Shekhawta], [Lakshmishree Shukla]
+All rights reserved.
+
+This project is protected by copyright law. Unauthorized copying, use, or distribution of this project or any of its components, in whole or in part, is strictly prohibited without prior written permission from the authors.
+
+For inquiries or permissions, please contact [swatikanwar204@gmail.com].
+
 
 
