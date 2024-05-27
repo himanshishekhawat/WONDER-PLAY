@@ -53,7 +53,7 @@ To run WONDER PLAY locally, follow these steps:
 
 ## Contributors
 - [Swati Kanwar](https://github.com/swati-204)
-- [Himanshi Shekhawat(https://github.com/himanshishekhawat)
+- [Himanshi Shekhawat](https://github.com/himanshishekhawat)
 - [Lakshmishree Shukla]
 
 
